@@ -104,7 +104,7 @@ link com.ibm.fhir.database.utils.model.DbType to com.ibm.fhir.database.utils.mod
 link com.ibm.fhir.database.utils.model.IndexDef to com.ibm.fhir.database.utils.model.Privilege--><!--MD5=[48d5b080d277fa04398e42bc76b1ab94]
 link com.ibm.fhir.database.utils.model.DbType to com.ibm.fhir.database.utils.model.PartitionDef--><!--MD5=[302b3048cdf6012c0e7893f10522b42e]
 link com.ibm.fhir.database.utils.model.PartitionDef to com.ibm.fhir.database.utils.model.GroupPrivilege--><!--MD5=[da3564bb0aabd13bf8392735c5549d56]
-link com.ibm.fhir.database.utils.model.GroupPrivilege to com.ibm.fhir.database.utils.model.Tenant--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="3338.5" y="2584.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[f057ded0b9a0b0ae2aaccf4a279f2fa9]
+link com.ibm.fhir.database.utils.model.GroupPrivilege to com.ibm.fhir.database.utils.model.Tenant--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="3338.5" y="2584.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[beaa0f0f88fe53df69b8dfadf828f38f]
 @startuml
     namespace com.ibm.fhir.database.utils.model {
 
@@ -694,7 +694,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

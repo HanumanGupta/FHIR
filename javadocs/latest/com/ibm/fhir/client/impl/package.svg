@@ -12,7 +12,7 @@ class javax.ws.rs.client.ClientRequestFilter--><rect fill="#FEFECE" filter="url(
 reverse link com.ibm.fhir.client.FHIRResponse to com.ibm.fhir.client.impl.FHIRResponseImpl--><path d="M704,520.9527 C704,678.1204 704,977.3536 704,1129.9324 " fill="none" id="com.ibm.fhir.client.FHIRResponse&lt;-com.ibm.fhir.client.impl.FHIRResponseImpl" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="697.0001,520.6685,704,500.6684,711.0001,520.6684,697.0001,520.6685" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5690067d40394628ec268fbbb5cfd4e1]
 reverse link javax.ws.rs.client.ClientRequestFilter to com.ibm.fhir.client.impl.FHIRBasicAuthenticator--><path d="M960.1556,468.8595 C1005.0001,607.259 1131.0995,996.4277 1182.6327,1155.4699 " fill="none" id="javax.ws.rs.client.ClientRequestFilter&lt;-com.ibm.fhir.client.impl.FHIRBasicAuthenticator" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="953.4186,470.7768,953.9128,449.593,966.7369,466.4614,953.4186,470.7768" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[52aef6360ba7dbb721190aa812f966c1]
 reverse link javax.ws.rs.client.ClientRequestFilter to com.ibm.fhir.client.impl.FHIROAuth2Authenticator--><path d="M944,469.8771 C944,613.1193 944,1019.0739 944,1168.4435 " fill="none" id="javax.ws.rs.client.ClientRequestFilter&lt;-com.ibm.fhir.client.impl.FHIROAuth2Authenticator" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="937.0001,469.593,944,449.593,951.0001,469.5929,937.0001,469.593" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[79066db17ae6a4f860d41a76d82c6a2b]
-reverse link com.ibm.fhir.client.FHIRClient to com.ibm.fhir.client.impl.FHIRClientImpl--><path d="M296,815.2712 C296,828.4937 296,841.7256 296,854.9097 " fill="none" id="com.ibm.fhir.client.FHIRClient&lt;-com.ibm.fhir.client.impl.FHIRClientImpl" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="289.0001,815.2187,296,795.2186,303.0001,815.2186,289.0001,815.2187" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="586.5" y="1629.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[9ca3631f12dc88cb9b9d81fcf9e53ad3]
+reverse link com.ibm.fhir.client.FHIRClient to com.ibm.fhir.client.impl.FHIRClientImpl--><path d="M296,815.2712 C296,828.4937 296,841.7256 296,854.9097 " fill="none" id="com.ibm.fhir.client.FHIRClient&lt;-com.ibm.fhir.client.impl.FHIRClientImpl" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="289.0001,815.2187,296,795.2186,303.0001,815.2186,289.0001,815.2187" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="586.5" y="1629.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[ee3b8d7f0f3c6a315fb88e77dc19d5e7]
 @startuml
     namespace com.ibm.fhir.client.impl {
 
@@ -195,7 +195,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

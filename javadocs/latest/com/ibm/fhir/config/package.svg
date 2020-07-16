@@ -17,7 +17,7 @@ reverse link com.ibm.fhir.core.TenantSpecificFileBasedCache to com.ibm.fhir.conf
 link com.ibm.fhir.config.PropertyGroup to com.ibm.fhir.config.PropertyGroup.PropertyEntry--><path d="M157.7042,858.7417 C151.7105,976.6664 144.1393,1144.1401 141,1291 C140.8385,1298.5538 139.1257,1300.6806 141,1308 C145.9721,1327.417 155.405,1347.1053 165.1872,1364.0509 " fill="none" id="com.ibm.fhir.config.PropertyGroup-&gt;com.ibm.fhir.config.PropertyGroup.PropertyEntry" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="167.9521,1368.7551,166.8401,1358.9692,165.4185,1364.4445,159.9432,1363.0229,167.9521,1368.7551" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="65" x="142" y="1304.0669">properties</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="7" x="155.8151" y="1358.0301">*</text><!--MD5=[6025930305161eac0fc9dc11947d28a6]
 reverse link com.ibm.fhir.config.PropertyGroup to com.ibm.fhir.config.PropertyGroup.PropertyEntry--><path d="M182.6663,873.7094 C193.4455,990.4846 206.4633,1150.0775 212,1291 C213.017,1316.8852 209.855,1345.7037 206.2806,1368.7211 " fill="none" id="com.ibm.fhir.config.PropertyGroup&lt;-com.ibm.fhir.config.PropertyGroup.PropertyEntry" style="stroke: #A80036; stroke-width: 1.0;"/><ellipse cx="182.0029" cy="866.5713" fill="#FFFFFF" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="182.7433" x2="181.2625" y1="874.5369" y2="858.6056"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="174.0373" x2="189.9686" y1="867.3117" y2="865.8308"/><!--MD5=[6d09d5bb30866648fdebeea4f6e3f3cc]
 link com.ibm.fhir.config.FHIRConfigHelper to com.ibm.fhir.config.FHIRRequestContext--><!--MD5=[5ef2bd03b328b672f824c1f6d5ee496c]
-link com.ibm.fhir.config.FHIRConfigHelper to com.ibm.fhir.config.ConfigurationService--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="991.5" y="1490.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[09a1e8180f06fc7250c93f516e487bf8]
+link com.ibm.fhir.config.FHIRConfigHelper to com.ibm.fhir.config.ConfigurationService--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="991.5" y="1490.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[8032c63e5cc94f01b6a14c57fe627003]
 @startuml
     namespace com.ibm.fhir.config {
 
@@ -202,7 +202,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

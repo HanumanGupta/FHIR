@@ -42,7 +42,7 @@ reverse link com.ibm.fhir.database.utils.api.IDatabaseAdapter to com.ibm.fhir.da
 reverse link com.ibm.fhir.database.utils.api.IDatabaseTypeAdapter to com.ibm.fhir.database.utils.common.CommonDatabaseAdapter--><path d="M3147.5014,482.9227 C3155.0422,569.1309 3181.4614,700.3301 3270,765 C3323.802,804.2978 4406.7224,766.3257 4469,790 C4488.637,797.4649 4507.9232,806.6037 4526.7108,816.9756 " fill="none" id="com.ibm.fhir.database.utils.api.IDatabaseTypeAdapter&lt;-com.ibm.fhir.database.utils.common.CommonDatabaseAdapter" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="3140.5109,483.3091,3146.0131,462.8463,3154.4726,482.2741,3140.5109,483.3091" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[935b18f67754a0d59ea30938af4e1cf4]
 reverse link com.ibm.fhir.database.utils.api.IConnectionProvider to com.ibm.fhir.database.utils.common.JdbcConnectionProvider--><path d="M2240.3331,481.3613 C2212.4181,556.8836 2166.7208,671.4151 2115,765 C2064.4743,856.4224 1993.2245,953.8271 1945.8756,1015.2484 " fill="none" id="com.ibm.fhir.database.utils.api.IConnectionProvider&lt;-com.ibm.fhir.database.utils.common.JdbcConnectionProvider" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="2233.7645,478.9418,2247.211,462.5653,2246.9119,483.7528,2233.7645,478.9418" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[11bbae5d9a0f64268927b3a850042eab]
 link com.ibm.fhir.database.utils.common.DateMath to com.ibm.fhir.database.utils.common.JdbcPropertyAdapter--><!--MD5=[c3dbb140954355c43700cca5fa1808cb]
-link com.ibm.fhir.database.utils.common.DateMath to com.ibm.fhir.database.utils.common.DataDefinitionUtil--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="2836.5" y="1623.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[caae741392cc7165bdfb7712e126cfbc]
+link com.ibm.fhir.database.utils.common.DateMath to com.ibm.fhir.database.utils.common.DataDefinitionUtil--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="2836.5" y="1623.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[f7317c9aa10700b3f202c4ec31be2204]
 @startuml
     namespace com.ibm.fhir.database.utils.common {
 
@@ -346,7 +346,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

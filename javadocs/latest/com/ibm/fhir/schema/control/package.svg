@@ -41,7 +41,7 @@ link com.ibm.fhir.schema.control.FhirResourceTableGroup to com.ibm.fhir.schema.c
 link com.ibm.fhir.schema.control.SchemaGeneratorUtil to com.ibm.fhir.schema.control.FhirSchemaGenerator--><!--MD5=[71b2c21821a99d1d3991209025fd2b84]
 link com.ibm.fhir.schema.control.FhirSchemaGenerator to com.ibm.fhir.schema.control.FhirSchemaConstants--><!--MD5=[99a2cdfe80d8aad846a70df2d65a514c]
 link com.ibm.fhir.schema.control.FhirResourceTableGroup to com.ibm.fhir.schema.control.Replacer--><!--MD5=[cbdadc82ff204cdb06dde0728fcc3d2e]
-link com.ibm.fhir.schema.control.Replacer to com.ibm.fhir.schema.control.TenantInfo--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="2034.5" y="2422.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[d3fda2204db32059f5667d2b7942ab70]
+link com.ibm.fhir.schema.control.Replacer to com.ibm.fhir.schema.control.TenantInfo--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="2034.5" y="2422.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[372c2de753608929d1b034bf6b827032]
 @startuml
     namespace com.ibm.fhir.schema.control {
 
@@ -359,7 +359,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

@@ -10,7 +10,7 @@ class com.ibm.fhir.model.visitor.PathAwareVisitor--><a href="../visitor/PathAwar
 reverse link com.ibm.fhir.model.generator.FHIRAbstractGenerator to com.ibm.fhir.model.generator.FHIRXMLGenerator--><path d="M437.5,627.7164 C419.7365,643.4087 401.8677,659.194 385.2966,673.8329 " fill="none" id="com.ibm.fhir.model.generator.FHIRAbstractGenerator&lt;-com.ibm.fhir.model.generator.FHIRXMLGenerator" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="433.0818,622.2793,452.7052,614.2841,442.3507,632.7716,433.0818,622.2793" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[958360aba4f1656847446475b24c4bbe]
 reverse link com.ibm.fhir.model.generator.FHIRAbstractGenerator to com.ibm.fhir.model.generator.FHIRJsonGenerator--><path d="M577.4319,634.0889 C579.862,650.0634 582.2804,665.9606 584.4881,680.4735 " fill="none" id="com.ibm.fhir.model.generator.FHIRAbstractGenerator&lt;-com.ibm.fhir.model.generator.FHIRJsonGenerator" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="570.5067,635.1094,574.4191,614.2841,584.3474,633.0038,570.5067,635.1094" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[46c0a620c0a3e793d18ddd8c131c4e5f]
 reverse link com.ibm.fhir.model.generator.FHIRGenerator to com.ibm.fhir.model.generator.FHIRAbstractGenerator--><path d="M560,385.1981 C560,398.502 560,411.8549 560,424.7054 " fill="none" id="com.ibm.fhir.model.generator.FHIRGenerator&lt;-com.ibm.fhir.model.generator.FHIRAbstractGenerator" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="553.0001,385.1166,560,365.1166,567.0001,385.1165,553.0001,385.1166" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9a443f0854dc91b614a77117725a287a]
-reverse link com.ibm.fhir.model.visitor.PathAwareVisitor to com.ibm.fhir.model.generator.GeneratingVisitor--><path d="M176,111.3446 C176,132.6215 176,158.7048 176,182.9444 " fill="none" id="com.ibm.fhir.model.visitor.PathAwareVisitor&lt;-com.ibm.fhir.model.generator.GeneratingVisitor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="169.0001,111.1903,176,91.1903,183.0001,111.1902,169.0001,111.1903" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="301.5" y="847.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[6e507166dc045fe9796066d2b390ad51]
+reverse link com.ibm.fhir.model.visitor.PathAwareVisitor to com.ibm.fhir.model.generator.GeneratingVisitor--><path d="M176,111.3446 C176,132.6215 176,158.7048 176,182.9444 " fill="none" id="com.ibm.fhir.model.visitor.PathAwareVisitor&lt;-com.ibm.fhir.model.generator.GeneratingVisitor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="169.0001,111.1903,176,91.1903,183.0001,111.1902,169.0001,111.1903" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="301.5" y="847.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[856cd4e546e62c8676dfc35aca61be73]
 @startuml
     namespace com.ibm.fhir.model.generator {
 
@@ -92,7 +92,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

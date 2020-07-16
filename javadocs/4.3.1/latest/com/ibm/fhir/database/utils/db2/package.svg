@@ -44,7 +44,7 @@ reverse link com.ibm.fhir.database.utils.api.IDatabaseStatement to com.ibm.fhir.
 reverse link com.ibm.fhir.database.utils.api.IDatabaseStatement to com.ibm.fhir.database.utils.db2.Db2Reorg--><path d="M2407.0583,240.5614 C2337.6483,273.326 2243.9548,325.5757 2179,393 C2108.0789,466.6174 2059.705,579.3314 2037.9939,637.269 " fill="none" id="com.ibm.fhir.database.utils.api.IDatabaseStatement&lt;-com.ibm.fhir.database.utils.db2.Db2Reorg" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="2404.4046,234.0765,2425.4965,232.0441,2410.2756,246.786,2404.4046,234.0765" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a80f13a3f1936dc811b822b914d78335]
 reverse link com.ibm.fhir.database.utils.api.IDatabaseStatement to com.ibm.fhir.database.utils.db2.Db2DropTablespace--><path d="M2344.0254,208.3577 C1887.703,229.4498 576.8717,297.7438 410,393 C314.6319,447.4394 252.1668,567.0368 224.0911,631.4273 " fill="none" id="com.ibm.fhir.database.utils.api.IDatabaseStatement&lt;-com.ibm.fhir.database.utils.db2.Db2DropTablespace" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="2343.8279,201.3595,2364.1283,207.4336,2344.4709,215.3448,2343.8279,201.3595" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4e44fece61aed3a7d89e3e9688635247]
 link com.ibm.fhir.database.utils.db2.Db2TableInfo to com.ibm.fhir.database.utils.db2.Db2CatalogDAO--><!--MD5=[8e27747e88683adb747f7ed42538b620]
-link com.ibm.fhir.database.utils.db2.Db2TableInfo to com.ibm.fhir.database.utils.db2.Db2PartitionControl--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="3039" y="1136.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[9828ac06545d69b1f61ec21f63498c14]
+link com.ibm.fhir.database.utils.db2.Db2TableInfo to com.ibm.fhir.database.utils.db2.Db2PartitionControl--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="3039" y="1136.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[18b88be867a5d31a769b3d5213451288]
 @startuml
     namespace com.ibm.fhir.database.utils.db2 {
 
@@ -298,7 +298,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

@@ -11,7 +11,7 @@ reverse link com.ibm.fhir.client.FHIRParameters to com.ibm.fhir.client.FHIRParam
 reverse link com.ibm.fhir.client.FHIRParameters to com.ibm.fhir.client.FHIRParameters.ValuePrefix--><path d="M259.1662,572.2863 C291.6856,666.0447 332.1335,782.6621 359.3774,861.2103 " fill="none" id="com.ibm.fhir.client.FHIRParameters&lt;-com.ibm.fhir.client.FHIRParameters.ValuePrefix" style="stroke: #A80036; stroke-width: 1.0;"/><ellipse cx="256.8451" cy="565.5943" fill="#FFFFFF" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="259.4667" x2="254.2236" y1="573.1525" y2="558.036"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="249.2869" x2="264.4034" y1="568.2158" y2="562.9727"/><!--MD5=[4b8528b3ffdbc9ba7a246b8b8ddcd491]
 link com.ibm.fhir.client.FHIRClient to com.ibm.fhir.client.FHIRRequestHeader--><!--MD5=[c1801e0e7fd66b2812cdf432964e2de6]
 link com.ibm.fhir.client.FHIRClient to com.ibm.fhir.client.FHIRClientFactory--><!--MD5=[db4510592e0992d75379de182a84b763]
-link com.ibm.fhir.client.FHIRClientFactory to com.ibm.fhir.client.FHIRResponse--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="564" y="1079.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[286274c36f8334f1944884ff09bbb158]
+link com.ibm.fhir.client.FHIRClientFactory to com.ibm.fhir.client.FHIRResponse--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="564" y="1079.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[a26210cfad32d7ff937865130a6abd9a]
 @startuml
     namespace com.ibm.fhir.client {
 
@@ -158,7 +158,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

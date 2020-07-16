@@ -14,7 +14,7 @@ link com.ibm.fhir.core.FHIRUtilities to com.ibm.fhir.core.CachedObjectHolder--><
 link com.ibm.fhir.core.CachedObjectHolder to com.ibm.fhir.core.TenantSpecificFileBasedCache--><!--MD5=[192f08a36d5a34058be88b685ee2dae9]
 link com.ibm.fhir.core.FHIRUtilities to com.ibm.fhir.core.HTTPReturnPreference--><!--MD5=[6d4e8ba53ac94b0c342e8d691b21e3b5]
 link com.ibm.fhir.core.HTTPReturnPreference to com.ibm.fhir.core.HTTPHandlingPreference--><!--MD5=[6cb6c292cf1a1b80cc964ffc7d31ad9e]
-link com.ibm.fhir.core.HTTPHandlingPreference to com.ibm.fhir.core.FHIRConstants--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="520.5" y="931.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[2f60fc17d7bbe61b9c53e7a6937010b4]
+link com.ibm.fhir.core.HTTPHandlingPreference to com.ibm.fhir.core.FHIRConstants--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="520.5" y="931.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[e6250c7b4720b14232ea603d6e357ace]
 @startuml
     namespace com.ibm.fhir.core {
 
@@ -131,7 +131,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

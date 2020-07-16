@@ -12,7 +12,7 @@ link com.ibm.fhir.search.parameters.QueryParameter to com.ibm.fhir.search.parame
 link com.ibm.fhir.search.parameters.QueryParameter to com.ibm.fhir.search.parameters.QueryParameter--><path d="M485.5578,532.2719 C563.6949,532.7905 628.5,542.5332 628.5,561.5 C628.5,580.0593 566.4496,589.7866 490.575,590.6819 " fill="none" id="com.ibm.fhir.search.parameters.QueryParameter-&gt;com.ibm.fhir.search.parameters.QueryParameter-1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="485.5578,590.7281,494.5943,594.6449,490.5576,590.682,494.5205,586.6452,485.5578,590.7281" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="34" x="634.5" y="566.0669">chain</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="7" x="493.2706" y="588.5062">*</text><!--MD5=[ec3d88bfef7b4f033a2709c2e3023430]
 link com.ibm.fhir.search.parameters.SortParameter to com.ibm.fhir.search.parameters.InclusionParameter--><!--MD5=[1c08ce371b93f8170533e24c98bc9486]
 link com.ibm.fhir.search.parameters.SortParameter to com.ibm.fhir.search.parameters.ParametersMap--><!--MD5=[f0b5f5062e79ad8b1615989b49324060]
-link com.ibm.fhir.search.parameters.ParametersMap to com.ibm.fhir.search.parameters.ParametersUtil--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="665" y="723.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[7a70fbaf880fdd6f4f6aacaa16bd2f3c]
+link com.ibm.fhir.search.parameters.ParametersMap to com.ibm.fhir.search.parameters.ParametersUtil--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="665" y="723.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[aadee1110984b26787e035ba4144ba87]
 @startuml
     namespace com.ibm.fhir.search.parameters {
 
@@ -103,7 +103,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

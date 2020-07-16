@@ -557,7 +557,7 @@ link com.ibm.fhir.cli.invoker to com.ibm.fhir.client--><path d="M11392.4323,611.
 link com.ibm.fhir.swagger.generator to com.ibm.fhir.model.resource--><path d="M4917.2794,620.4733 C4925.3938,654.4588 4952.9927,748.7651 5016.5719,788 C5072.8963,822.758 6029.8844,849.7281 6342.0031,857.6336 " fill="none" id="com.ibm.fhir.swagger.generator-&gt;com.ibm.fhir.model.resource" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="6347.4544,857.7714,6338.5584,853.5451,6342.456,857.645,6338.3561,861.5426,6347.4544,857.7714" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[157b42ce3c2e8fe1c0a04ce700208e6b]
 link com.ibm.fhir.swagger.generator to com.ibm.fhir.model.type--><path d="M4821.8726,620.0352 C4695.5622,636.434 4471.3008,665.5499 4350.3655,681.2509 " fill="none" id="com.ibm.fhir.swagger.generator-&gt;com.ibm.fhir.model.type" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="4345.3966,681.896,4354.8368,684.7037,4350.355,681.2521,4353.8066,676.7703,4345.3966,681.896" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9b917221811e1c2bea58085384f567af]
 link com.ibm.fhir.openapi.generator to com.ibm.fhir.model.resource--><path d="M5178.4518,620.0009 C5129.4501,633.5397 5057.6645,656.7209 5041.5719,680 C5014.2758,719.4857 5007.5131,753.1961 5040.5719,788 C5085.3479,835.1397 6031.6831,853.7669 6341.9882,858.6216 " fill="none" id="com.ibm.fhir.openapi.generator-&gt;com.ibm.fhir.model.resource" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="6347.4083,858.7061,6338.4718,854.5662,6342.4089,858.6281,6338.347,862.5652,6347.4083,858.7061" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[02627e36f39280066f23f5da0312a4d0]
-link com.ibm.fhir.openapi.generator to com.ibm.fhir.model.type--><path d="M5123.503,616.9497 C4932.6572,633.6835 4525.2862,669.4029 4350.2737,684.7485 " fill="none" id="com.ibm.fhir.openapi.generator-&gt;com.ibm.fhir.model.type" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="4345.1641,685.1965,4354.4792,688.3949,4350.145,684.7596,4353.7802,680.4255,4345.1641,685.1965" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="7327.5" y="975.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[cc92ca89c3d3b6755320056f9ee6befa]
+link com.ibm.fhir.openapi.generator to com.ibm.fhir.model.type--><path d="M5123.503,616.9497 C4932.6572,633.6835 4525.2862,669.4029 4350.2737,684.7485 " fill="none" id="com.ibm.fhir.openapi.generator-&gt;com.ibm.fhir.model.type" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="4345.1641,685.1965,4354.4792,688.3949,4350.145,684.7596,4353.7802,680.4255,4345.1641,685.1965" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="186" x="7327.5" y="975.2822">UMLDoclet 2.0.7, PlantUML 1.2019.12</text><!--MD5=[1331d42bd23a6dc5676035166b3b694d]
 @startuml
     set namespaceSeparator none
     hide circle
@@ -1266,7 +1266,7 @@ PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10
+Java Version: 11.0.8+10
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en
